@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/dayone">  
+<a href="https://tanahavlic8094.github.io/.github/dayone">  
 <img src="https://img.shields.io/badge/GET_Day_One-darkblue?style=for-the-badge&logo=apple" alt="GET Day One">  
 </a>  
 </div>  
